@@ -1,0 +1,23 @@
+SPRINT
+Uma sprint é uma reunião de pessoas envolvidas num projeto para promover um desenvolvimento mais focalizado do projeto. O termo está fortemente relacionado ao framework de desenvolvimento ágil Scrum. Sprints normalmente tem duração de uma a quatro semanas.
+
+ Product Backlo
+ O product backlog faz parte do framework de desenvolvimento Scrum, e é ligado diretamente ao Product Owner (PO), responsável por sua criação, conteúdo, disponibilidade e priorização. Sua função é documentar de forma clara todos os requisitos que vão surgindo durante o desenvolvimento de um projeto.
+
+Sprint Planning
+O planejamento do sprint é um evento no scrum que inicia o sprint. O objetivo do planejamento do sprint é definir o que pode ser entregue no sprint e como esse trabalho vai ser alcançado. O planejamento do sprint é feito em colaboração com toda a equipe Scrum
+
+Sprint Backlog
+ Backlog refere-se a um log de acumulação de trabalho num determinado intervalo de tempo. Backlog é uma espécie de estoque de folhas de requisições/encomendas relativas a produtos ainda não produzidos.
+
+Daily Meeting
+Stand-up Meeting é uma ferramenta dos Métodos Ágeis que consiste em uma reunião técnica, geralmente no início do dia, em pé, em que cada desenvolvedor responde a três perguntas básicas. Foi elaborado como uma ferramenta de incentivo à comunicação e criatividade de equipes de desenvolvimento, difundiu-se na década de 90 nos países de tecnologia desenvolvida.
+
+Sprint Retrospective
+Sprint Retrospective, a Retrospectiva do Sprint, ocorre após a revisão do Sprint e antes do próximo Planning Sprint. Esta é uma reunião normalmente de no máximo três horas para sprints de um mês. Para Sprints mais curtos, o evento geralmente também é mais curto
+
+Scrum Maste
+O Scrum Master é o responsável por garantir que o Time Scrum se oriente pelos valores e práticas do Scrum. O Scrum Master protege o time, certificando-se de que os membros não se comprometam com compromissos além dos que eles conseguem cumprir dentro de uma Sprint.
+
+Product Owner
+O Product Owner representa os interesses de todos os envolvidos (Stakeholders), define as funcionalidades do produto e prioriza os itens de Product Backlog. O Product Owner tem as seguintes responsabilidades: Definir as funcionalidades do produto (Backlog do Produto)
